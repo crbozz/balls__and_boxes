@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7D5D265E-2D99-407E-1597-403C7BF6AEE8}") = "BallsAndBoxes", "Assembly-CSharp.csproj", "{D8B94EC0-E71E-8A13-88A7-690F52CCF1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B94EC0-E71E-8A13-88A7-690F52CCF1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B94EC0-E71E-8A13-88A7-690F52CCF1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B94EC0-E71E-8A13-88A7-690F52CCF1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B94EC0-E71E-8A13-88A7-690F52CCF1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
